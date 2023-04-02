@@ -1,4 +1,4 @@
-package com.example.webview_4
+package com.simasjid.webview
 
 import io.flutter.embedding.android.FlutterActivity
 
